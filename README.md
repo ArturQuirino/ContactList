@@ -1,3 +1,8 @@
+## UDACITY NANODEGREE
+This project is part of the web front end nanodegree from Udacity.
+It is a contact list made using React.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
